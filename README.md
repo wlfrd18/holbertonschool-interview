@@ -58,4 +58,3 @@ Dive into each project directory for in-depth details, setup guides, and a deep 
 - **Simon Descombes**
   - LinkedIn: [Simon](https://www.linkedin.com/in/wilfried-guele-5a456a190/)
   - GitHub: [wlfrd18](https://github.com/wlfrd18)
-
